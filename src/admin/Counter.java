@@ -273,5 +273,6 @@ public class Counter implements ICounter{
 		c.displayCounter();
 //		c.deleateCounter("c2");
 //		c.updateCounter("c3", "vatika", 5);
+		System.out.println("zeeshan");
 	}
 }
